@@ -1,0 +1,38 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 3
+
+newmtl diffColor1001
+Ns 84.705885
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\clothews.tga
+map_d textures\\clothews.tga
+
+newmtl diffColor1011
+Ns 84.705885
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\face.tga
+map_d textures\\face.tga
+
+newmtl models/characters/buff_scout/Body
+Ns 84.705885
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures\\swole body.tga
+map_d textures\\swole body.tga

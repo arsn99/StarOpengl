@@ -1,0 +1,145 @@
+﻿  main.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Shader.h(117,58): warning C4244: аргумент: преобразование "GLfloat" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\User\Desktop\OpenGLRoot\External Resources\GLFW\include\GLFW\glfw3.h(104): message : см. предыдущее определение "APIENTRY"
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(265,11): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(266,11): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(269,18): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(270,18): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(271,10): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(272,10): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(331,80): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(358,91): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(358,91): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(358,91): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(358,91): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(358,91): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(362,92): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(362,92): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(362,92): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(362,92): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(362,92): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(364,91): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(364,91): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(364,91): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(364,91): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(364,91): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(366,90): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(366,90): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(366,90): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(366,90): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(366,90): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(368,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(368,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(368,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(368,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(368,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(370,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(370,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(370,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(370,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(370,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(372,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(372,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(372,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(372,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(372,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(374,94): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(374,94): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(374,94): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(374,94): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(374,94): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(376,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(376,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(376,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(376,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(376,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(378,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(378,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(378,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(378,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(378,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(380,92): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(380,92): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(380,92): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(380,92): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(380,92): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(388,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(388,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(388,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(388,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(388,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(390,93): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(390,93): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(390,93): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(390,93): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(390,93): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(392,92): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(392,92): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(392,92): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(392,92): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(392,92): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(394,92): warning C4244: аргумент: преобразование "genType" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(394,92): warning C4244:         with
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(394,92): warning C4244:         [
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(394,92): warning C4244:             genType=double
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(394,92): warning C4244:         ]
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(552,29): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(454,12): warning C4101: model: неиспользованная локальная переменная
+  mesh.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\main.cpp(457,10): warning C4101: rot: неиспользованная локальная переменная
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+  meshanim.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\mesh.cpp(34,32): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Model.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+  ModelAnim.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Shader.h(117,58): warning C4244: аргумент: преобразование "GLfloat" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Shader.h(117,58): warning C4244: аргумент: преобразование "GLfloat" в "GLint", возможна потеря данных
+  Person.cpp
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\ModelAnim.cpp(71,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Texture.h(20,18): warning C4244: =: преобразование "float" в "GLuint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Shader.h(117,58): warning C4244: аргумент: преобразование "GLfloat" в "GLint", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Person.cpp(132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Person.cpp(159,27): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\User\Desktop\OpenGLRoot\Yoda\Yoda\Person.cpp(161,27): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1014 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+LINK : warning LNK4286: Символ "__glewDeleteBuffers", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewGenerateMipmap", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewGenBuffers", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewGenVertexArrays", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewActiveTexture", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewBufferData", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewDeleteVertexArrays", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewBindBuffer", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewVertexAttribPointer", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewBindVertexArray", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewEnableVertexAttribArray", определенный в "glew32s.lib(glew.obj)", импортирован "mesh.obj".
+LINK : warning LNK4286: Символ "__glewVertexAttribIPointer", определенный в "glew32s.lib(glew.obj)", импортирован "meshanim.obj".
+LINK : warning LNK4286: Символ "__glewDrawElementsBaseVertex", определенный в "glew32s.lib(glew.obj)", импортирован "meshanim.obj".
+LINK : warning LNK4286: Символ "__glewLinkProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewDeleteShader", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewUniform3f", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewGetProgramInfoLog", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewUniformMatrix4fv", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewShaderSource", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewAttachShader", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewGetUniformLocation", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewUniform1f", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewGetProgramiv", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewGetShaderInfoLog", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewUniform1i", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewCreateProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewCreateShader", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewCompileShader", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewGetShaderiv", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+LINK : warning LNK4286: Символ "__glewUseProgram", определенный в "glew32s.lib(glew.obj)", импортирован "Model.obj".
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\User\Desktop\OpenGLRoot\Yoda\x64\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Yoda.vcxproj -> C:\Users\User\Desktop\OpenGLRoot\Yoda\x64\Release\Yoda.exe
